@@ -1,0 +1,2 @@
+Main-Class: eunumber.EuNumber
+Class-Path: MyEuNumber.jar
